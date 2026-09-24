@@ -10,7 +10,7 @@
 ### 👨‍💻 About me
 
 - 🏢 Full-stack developer at **[Thambapanni IT Solutions](https://thambapanniitsolutions.lk)**
-- 🎓 Undergraduate at **The Open University of Sri Lanka**
+- 🎓 Undergraduate at **The Open University of Sri Lanka** | BSE(Hons)
 - 🛠️ I ship **multi-tenant SaaS platforms, POS & ERP systems, LMS portals and internal business tools** — mostly Next.js + NestJS + PostgreSQL
 - 🚢 I don't stop at `git push`: I deploy and maintain the servers too — VPS provisioning, nginx, PM2/systemd, Docker, SSL and uptime for **15+ live production sites**
 - 🤝 Delivered work for Sri Lankan clients including **Maliban**, hospitals, restaurants, law firms and education providers
