@@ -15,6 +15,7 @@
 - 🚢 I don't stop at `git push`: I deploy and maintain the servers too — VPS provisioning, nginx, PM2/systemd, Docker, SSL and uptime for **15+ live production sites**
 - 🤝 Delivered work for Sri Lankan clients including **Maliban**, hospitals, restaurants, law firms and education providers
 - 🌱 Currently exploring **AI-powered products** — voice-first learning apps, Gemini-driven automation and interactive 3D web experiences
+- 🤖 And I am a developer with 1.5 years experiences of prompt engineering and developing professional software using AI
 
 ---
 
